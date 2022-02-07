@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinIdema)](https://github.com/MelvinIdema)
+[![Melvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelvinIdema)](https://github.com/MelvinIdema)
+
+My name is Melvin, I'm a student at the University of Applied Sciences Amsterdam. I love building awesome things as a front-end developer with back-end interests. 
+- 📫 How to reach me: melvin.idema30@gmail.com
+- 🔭 I’m currently working on Blok Tech!
+
+
 <!--
 **MelvinIdema/MelvinIdema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
