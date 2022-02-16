@@ -24,8 +24,8 @@ It all started with my own little space on the internet: `toekieclub.tk`. Stolen
 
 ## Cool stats I found on other profiles
 
-<img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=MelvinIdema&hide=contribs">
-<img height="175" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinIdema&layout=compact">
+<img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=MelvinIdema&hide=contribs">
+<img height="165" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinIdema&layout=compact">
 
 <!--
 **MelvinIdema/MelvinIdema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
