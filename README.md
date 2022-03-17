@@ -5,7 +5,7 @@ alt="Official unofficial logo by kytrinyx" width="250" height="200">
 
 My name is Melvin. A front-end developer and student at the University of Applied Sciences Amsterdam. Early in my life I discovered a passion that has never left me: programming. But more specifically: building a good-looking front-end. Oh, and photography, Photoshop, storytelling, UI-design and anything else creative. 
 
-It all started with my own little space on the internet: `toekieclub.tk`. Stolen together in second grade from code-snippets on the internet. The birth of a life-long passion of mine. 
+It all started with my own little space on the internet: `toekieclub.tk`. Stolen together in fourth grade from code-snippets on the internet. The birth of a life-long passion of mine. 
 
 <br><br>
   
